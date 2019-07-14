@@ -1,21 +1,37 @@
+a {
+  text-decoration-color: blue!important;
+  text-decoration-line: none;
+}
+
 body {
   background-color: mintcream;
   text-align: center;
+  font-size: 16px;
 }
 
 h1 {
   color: #66BFBF;
+  font-size: 100px;
 }
 
 h3 {
   color: #66BFBF;
+  font-size: 50px;
 }
 
-table.center {
+h5 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.center {
   margin-left: auto;
   margin-right: auto;
+  font-size: 20px;
 }
-
 
 hr {
   background-color: mintcream;
