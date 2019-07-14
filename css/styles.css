@@ -1,0 +1,27 @@
+body {
+  background-color: mintcream;
+  text-align: center;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+hr {
+  background-color: mintcream;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: silver;
+  border-width: 5px;
+  width: 7%;
+}
