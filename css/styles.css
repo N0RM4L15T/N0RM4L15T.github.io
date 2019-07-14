@@ -4,9 +4,19 @@ a {
 }
 
 body {
+  font-family: sans-serif;
   background-color: mintcream;
   text-align: center;
   font-size: 16px;
+}
+
+hr {
+  background-color: mintcream;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: silver;
+  border-width: 5px;
+  width: 7%;
 }
 
 h1 {
@@ -33,11 +43,6 @@ p {
   font-size: 20px;
 }
 
-hr {
-  background-color: mintcream;
-  border-style: none;
-  border-top-style: dotted;
-  border-color: silver;
-  border-width: 5px;
-  width: 7%;
+#heading {
+  font-weight: bolder;
 }
